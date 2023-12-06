@@ -9,10 +9,16 @@ my name taehoon kim, from korea, age 20, student at Dongyang Mirea University
 ![진로실천](https://img.shields.io/badge/C-진로실천-purple)
 
 ### I’m looking for help with 
-|진로|공부|
-|:--:|:--:|
-|군대|전공|
-|하고싶은 것||
+#### 진로
+- 군대
+- 전공 공부
+___
+#### 배우고 싶은 것
+- 사격
+- 유도
+
+![100475980](https://github.com/qoxmaos/qoxmaos/assets/144201239/593d7144-6c24-4caa-b26b-a866790f9c98)
+___
 
 📫 How to reach me: 
 > click [here](https://www.instagram.com/)
