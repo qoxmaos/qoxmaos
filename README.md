@@ -3,15 +3,28 @@
 ___
 ### 내가 좋아하는 것
 - 축구⚽
-- 게임
-- 음악 듣기
+- > 좋아하는 선수
+  > 
+  > ![SON](https://img.shields.io/badge/SON-heungmin-white)
+  > ![Haland](https://img.shields.io/badge/Erling_Braut-haland-skyblue)
+  > ![DeBurye](https://img.shields.io/badge/Kevin_De-Bruyne-skyblue)
+- 게임🎮
+- > 좋아하는 게임
+  >
+  > ![fifa](https://img.shields.io/badge/FC-FC_ONLINE-green)
+- 음악 듣기🎵
+- >
+  > **엠씨더 멕스** : 어디에도
+  > [youtube_link](https://www.youtube.com/watch?v=CiF5ikqrnRI)
+  >
+![youtube](https://github.com/qoxmaos/qoxmaos/assets/144201239/d2864f1e-b635-46e3-9185-0bb111135d64)
 ___
 ### 고민거리 진로
 - 군대
-- 전공 공부
+- 전공 공부 
 ___
-### 배우고 싶은 것
-- 사격
+### 배워보고싶은 것
+- 사격🔫
 - 유도
 
 ![100475980](https://github.com/qoxmaos/qoxmaos/assets/144201239/593d7144-6c24-4caa-b26b-a866790f9c98)
@@ -26,7 +39,7 @@ ___
 ![99991866_logo_3237](https://github.com/qoxmaos/qoxmaos/assets/144201239/4837b27c-108a-45d5-8500-ce6f17eab998)
 
 ___
-### 현재 배우고 있는 것
+### 현재 배우고 있는 것👨‍🎓
 ![python](https://img.shields.io/badge/P-python-red)
 ![MySQL](https://img.shields.io/badge/M-MySQL-blue)
 ![Orange3](https://img.shields.io/badge/O-Orange3-orange)
